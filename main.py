@@ -292,5 +292,3 @@ if __name__ == "__main__":
 
         elif choose == 5:
             exit();
-
-            print()
